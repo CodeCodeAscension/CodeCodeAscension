@@ -38,7 +38,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" title="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30" title="Linux" />
 </p>
-
 ---
 
 ### 🎮 Contribution Graph
